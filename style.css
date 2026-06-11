@@ -178,9 +178,9 @@ ul { list-style: none; }
   letter-spacing: 0.05em;
   background: var(--blue);
   color: var(--white);
-  width: 62px;
-  height: 62px;
-  border-radius: 30px;
+  width: 52px;
+  height: 52px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
