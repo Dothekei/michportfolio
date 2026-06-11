@@ -178,8 +178,8 @@ ul { list-style: none; }
   letter-spacing: 0.05em;
   background: var(--blue);
   color: var(--white);
-  width: 52px;
-  height: 52px;
+  width: 32px;
+  height: 32px;
   border-radius: 10px;
   display: flex;
   align-items: center;
